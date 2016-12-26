@@ -1,0 +1,4 @@
+Fukurokuju.MainActivity, Fukurokuju;md567cb30477b429b3341fca597b982ec39.MainActivity
+Fukurokuju.MainActivity, Fukurokuju, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md567cb30477b429b3341fca597b982ec39.MainActivity
+Fukurokuju.MainActivity;md567cb30477b429b3341fca597b982ec39.MainActivity
+fukurokuju.MainActivity;md567cb30477b429b3341fca597b982ec39.MainActivity

@@ -1,0 +1,15 @@
+c:\users\josh\documents\visual studio 2015\Projects\Fukurokuju\Fukurokuju\bin\Debug\Fukurokuju.dll
+c:\users\josh\documents\visual studio 2015\Projects\Fukurokuju\Fukurokuju\bin\Debug\Fukurokuju.pdb
+c:\users\josh\documents\visual studio 2015\Projects\Fukurokuju\Fukurokuju\bin\Debug\Fukurokuju.Fukurokuju.apk
+c:\users\josh\documents\visual studio 2015\Projects\Fukurokuju\Fukurokuju\bin\Debug\Fukurokuju.Fukurokuju-Signed.apk
+c:\users\josh\documents\visual studio 2015\Projects\Fukurokuju\Fukurokuju\obj\Debug\Fukurokuju.csprojResolveAssemblyReference.cache
+c:\users\josh\documents\visual studio 2015\Projects\Fukurokuju\Fukurokuju\obj\Debug\Fukurokuju.dll
+c:\users\josh\documents\visual studio 2015\Projects\Fukurokuju\Fukurokuju\obj\Debug\Fukurokuju.pdb
+c:\users\josh\documents\visual studio 2015\Projects\Fukurokuju\Fukurokuju\obj\Debug\android\bin\Fukurokuju.Fukurokuju.apk
+c:\users\josh\documents\visual studio 2015\Projects\Fukurokuju\Fukurokuju\obj\Debug\res\layout\main.xml
+c:\users\josh\documents\visual studio 2015\Projects\Fukurokuju\Fukurokuju\obj\Debug\res\values\strings.xml
+c:\users\josh\documents\visual studio 2015\Projects\Fukurokuju\Fukurokuju\obj\Debug\res\drawable\icon.png
+c:\users\josh\documents\visual studio 2015\Projects\Fukurokuju\Fukurokuju\obj\Debug\R.cs.flag
+c:\users\josh\documents\visual studio 2015\Projects\Fukurokuju\Fukurokuju\obj\Debug\uploadflags.txt
+c:\users\josh\documents\visual studio 2015\Projects\Fukurokuju\Fukurokuju\obj\Debug\Fukurokuju.dll.mdb
+c:\users\josh\documents\visual studio 2015\Projects\Fukurokuju\Fukurokuju\bin\Debug\Fukurokuju.dll.mdb
